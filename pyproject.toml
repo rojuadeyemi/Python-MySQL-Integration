@@ -1,13 +1,12 @@
 [tool.poetry]
 name = "compile"
 version = "0.1.0"
-description = "this is an SQL integrated python app"
-authors = ["liu chiko"]
+authors = ["Aderoju"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
-mysql-connector-python = "^8.0.27"
-pandas = "^1.3.5"
+python
+mysql-connector-python
+pandas
 
 [tool.poetry.dev-dependencies]
 
