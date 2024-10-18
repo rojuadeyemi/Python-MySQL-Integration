@@ -56,7 +56,10 @@ python -m venv .venv
 
 4. **Activate the environment:**
 
-You can use the provided `makefile`, by runing  `make activate`
+Run the below, to activate the environment
+    ```sh
+    make activate
+    ```
 
 ## Usage
 
@@ -64,7 +67,6 @@ You can use the provided `makefile`, by runing  `make activate`
 
 To run the *Program*, you can use the command `make run`. You can also use the following commands:
 
-For *Windows*:
 ```sh
 python main.py
 ```
