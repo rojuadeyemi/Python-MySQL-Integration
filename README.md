@@ -1,6 +1,6 @@
 # Python-MySQL Integration
 
-The aim of this project is to demonstrate how Python can be integrated with a MySQL to perform various operations, database creation, such as data retrieval, manipulation, and analysis. This will involve creating a MySQL database, setting up tables, inserting data, and using Python to query and update the database.
+The aim of this project is to demonstrate how Python can be integrated with a MySQL to perform various operations such as database creation, data retrieval, manipulation, and analysis. This will involve creating a MySQL database, setting up tables, inserting data, and using Python to query and update the database.
 
 
 The Program:
