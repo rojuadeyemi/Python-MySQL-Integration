@@ -57,6 +57,7 @@ python -m venv .venv
 4. **Activate the environment:**
 
 Run the below, to activate the environment
+
     ```sh
     make activate
     ```
