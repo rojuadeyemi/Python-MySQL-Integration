@@ -60,7 +60,8 @@ Run the below, to activate the environment
 
     `make activate`
     
-    ## Usage
+
+## Usage
 
 ### Running the Program
 
