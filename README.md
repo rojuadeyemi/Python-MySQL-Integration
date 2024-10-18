@@ -2,6 +2,12 @@
 
 The aim of this project is to demonstrate how Python can be integrated with a MySQL to perform various operations such as database creation, data retrieval, manipulation, and analysis. This will involve creating a MySQL database, setting up tables, inserting data, and using Python to query and update the database.
 
+## Tools and Technologies
+- Programming Language: Python
+- Database: MySQL
+- Libraries:
+  1. `mysql-connector-python` (for connecting Python with MySQL)
+  2. `pandas` (for data manipulation)
 
 The Program:
 
