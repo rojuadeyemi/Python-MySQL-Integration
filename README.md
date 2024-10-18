@@ -58,11 +58,9 @@ python -m venv .venv
 
 Run the below, to activate the environment
 
-    ```sh
-    make activate
-    ```
-
-## Usage
+    `make activate`
+    
+    ## Usage
 
 ### Running the Program
 
